@@ -8,7 +8,7 @@ function NewLineText(props){
   return <div>{text}</div>;
 }
 
-const lema = "Soy el lema! y debo salir tras presionar el botón, soy global"
+const lema = "Soy el lema! y debo salir tras presionar el boton, soy global"
 
 function MiBoton(){
   return (
